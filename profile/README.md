@@ -26,8 +26,8 @@ Zig gives us explicit allocators for predictable real-time behavior, `comptime` 
 
 The project is in early development. Hardware designs and firmware will be fully open once the first prototype is stable. If you're interested in Zig, embedded systems, or biosignal processing — open an issue or start a discussion.
 
-[Contributing](./CONTRIBUTING.md)
+[Contributing](../CONTRIBUTING.md)
 
 ## License
 
-[MIT](LICENSE)
+[MIT](../LICENSE)
