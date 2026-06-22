@@ -1,7 +1,7 @@
 <a href="https://t.me/qabd_lab">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="brand/BannerDark.png">
-		<img src="brand/BannerLight.png" alt='Qabd - Open-source embedded systems & gesture interfaces, written in Zig. قبض("to grasp") — we build what touches the physical world.' />
+		<source media="(prefers-color-scheme: dark)" srcset="brand/GitHubBannerDark.png">
+		<img src="brand/GitHubBannerLight.png" alt='Qabd - Open-source embedded systems & gesture interfaces, written in Zig. قبض("to grasp") — we build what touches the physical world.' />
 	</picture>
 </a>
 
