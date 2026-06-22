@@ -1,9 +1,11 @@
 <a href="https://t.me/qabd_lab">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="brand/GitHubBannerDark.png">
-		<img src="brand/GitHubBannerLight.png" alt='Qabd - Open-source embedded systems & gesture interfaces, written in Zig. قبض("to grasp") — we build what touches the physical world.' />
+		<source media="(prefers-color-scheme: dark)" srcset="../brand/GitHubBannerDark.png">
+		<img src="../brand/GitHubBannerLight.png" alt='Qabd - Open-source embedded systems & gesture interfaces, written in Zig. قبض("to grasp") — we build what touches the physical world.' />
 	</picture>
 </a>
+
+<br />
 
 [![License](https://img.shields.io/badge/license-MIT-B87333?style=flat-square)](LICENSE) [![Zig](https://img.shields.io/badge/Zig-0.14-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org) [![Status](https://img.shields.io/badge/status-early%20development-6B7280?style=flat-square)]()
 
