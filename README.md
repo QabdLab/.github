@@ -5,11 +5,7 @@
 	</picture>
 </a>
 
-[![License](https://img.shields.io/badge/license-MIT-B87333?style=flat-square)](LICENSE) 
-
-[![Zig](https://img.shields.io/badge/Zig-0.14-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org) 
-
-[![Status](https://img.shields.io/badge/status-early%20development-6B7280?style=flat-square)]()
+[![License](https://img.shields.io/badge/license-MIT-B87333?style=flat-square)](LICENSE) [![Zig](https://img.shields.io/badge/Zig-0.14-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org) [![Status](https://img.shields.io/badge/status-early%20development-6B7280?style=flat-square)]()
 
 
 ## What is qabd?
